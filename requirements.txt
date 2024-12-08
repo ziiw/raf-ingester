@@ -1,0 +1,3 @@
+rawpy
+PyQt6
+Pillow

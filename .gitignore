@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+.env
+.venv
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.vs/
+
+# Project specific
+*.jpg
+*.jpeg
+*.RAF
+*.raf
+exported_photos/
+temp/
+logs/
+*.log
+
+# Qt specific
+*.qmlc
+*.jsc
+*.qm
+*.ts
+.qmake.stash
+Makefile*
+*.pro.user*
+*.qbs.user*
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.autosave 
